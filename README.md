@@ -1,2 +1,2 @@
 # docker
-Docker 
+cd apache-mysql-env && docker-compose up
